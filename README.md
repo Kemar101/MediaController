@@ -9,4 +9,5 @@ The Media Controller was introduce in API level 1, and is still used in the late
 # Example project:
 # Code:
 # Reference:
-  
+https://developer.tizen.org/dev-guide/csapi/api/Tizen.Multimedia.Remoting.MediaController.html?q=mediacontroller
+https://developer.android.com/reference/android/widget/MediaController
