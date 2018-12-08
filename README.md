@@ -11,6 +11,6 @@ The Media Controller was introduce in API level 1, and is still used in the late
 <img src="https://raw.githubusercontent.com/Kemar101/MediaController/master/comment.JPG" width="1000" />
  
 # Reference:
-https://developer.tizen.org/dev-guide/csapi/api/Tizen.Multimedia.Remoting.MediaController.html?q=mediacontroller
-https://developer.android.com/reference/android/widget/MediaController
-https://www.youtube.com/watch?v=8Lq3HyBCuAA
+1) https://developer.tizen.org/dev-guide/csapi/api/Tizen.Multimedia.Remoting.MediaController.html?q=mediacontroller
+2) https://developer.android.com/reference/android/widget/MediaController
+3) https://www.youtube.com/watch?v=8Lq3HyBCuAA
