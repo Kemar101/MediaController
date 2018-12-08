@@ -8,7 +8,7 @@ The Media Controller was introduce in API level 1, and is still used in the late
 # Example project:
  The major methods/attributes used was setAnchorView(View view) that set the view that acts as the anchor for the control view.
 # Code:
-<img src="https://raw.githubusercontent.com/Kemar101/MediaController/master/comment.JPG" width="100" />
+<img src="https://raw.githubusercontent.com/Kemar101/MediaController/master/comment.JPG" width="500" />
  
 # Reference:
 https://developer.tizen.org/dev-guide/csapi/api/Tizen.Multimedia.Remoting.MediaController.html?q=mediacontroller
